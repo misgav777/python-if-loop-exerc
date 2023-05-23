@@ -17,10 +17,8 @@ def until_negative_num():
         count += 1
         print(f'Avarage is {sum // count}')
         print(f'Sum is {sum}')
-        # user = int(input('Enter a number please '))
 
-
-until_negative_num()
+# until_negative_num()
 
 ######## exercise 3 ######
 
